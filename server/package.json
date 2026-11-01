@@ -1,0 +1,25 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "Agenda to manage contacts",
+  "keywords": [
+    "agenda",
+    "express",
+    "mongodb"
+  ],
+  "homepage": "https://github.com/pxtrice03/agenda#readme",
+  "bugs": {
+    "url": "https://github.com/pxtrice03/agenda/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pxtrice03/agenda.git"
+  },
+  "license": "ISC",
+  "author": "Patrice",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "dev": "nodemon src/server.js"
+  }
+}
